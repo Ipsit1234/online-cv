@@ -108,15 +108,15 @@ education:
 #           - Bullet point
 #           - Bullet point
 projects:
-    title: Projects
+    title: Key Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Constellation Detection | Institute Technical Summer Project | Indian Institute of Technology Bombay
+        link: "#"
+        tagline: "-Devised a mechanism to detect constellations from an image, irrespective of rotation or scaling
+                  -Processed images using OpenCV library and implemented Geometric Hashing for every 4-tuples of stars
+                  -Used similarity metrics like L1 and L2 norms, cosine similarity and gaussian similarity to compare hashcodes
+                  -Designed a graphical user interface using Tkinter library in python to check for the constellations"
 
       - title: DevStudio
         link: "#"
